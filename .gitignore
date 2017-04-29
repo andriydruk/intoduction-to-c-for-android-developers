@@ -1,0 +1,7 @@
+toolchain
+*.a
+*.o
+*.so
+build-mac
+build-android
+.idea
